@@ -56,7 +56,6 @@ namespace Generics
             }
         }
 
-        //1 2 0
 
         public bool TryExtract(out T result)
         {
